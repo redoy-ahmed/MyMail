@@ -1,8 +1,5 @@
 package com.mymail;
 
-/**
- * Created by abdalla on 12/18/17.
- */
 
 public class EmailData {
 

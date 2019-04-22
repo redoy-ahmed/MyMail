@@ -18,9 +18,6 @@ import com.mymail.R;
 import java.util.List;
 import java.util.Random;
 
-/**
- * Created by abdalla on 12/18/17.
- */
 
 public class MailAdapter extends RecyclerView.Adapter<MailViewHolder> {
 
